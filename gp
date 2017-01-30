@@ -1,4 +1,3 @@
 git add -A
-git commit -m "validations and footer rework"
-git push origin master
-git push heroku master
+git commit -m "Added comments model"
+git push origin comment
